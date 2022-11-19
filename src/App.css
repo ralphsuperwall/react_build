@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.black_nav {
+  display: flex;
+  background: antiquewhite;
+  width: 100%;
+  color: rebeccapurple;
+  padding-left: 20px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
